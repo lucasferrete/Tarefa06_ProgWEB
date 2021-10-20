@@ -30,7 +30,7 @@ identificador chamado "meuDiv" para: A minha cor favorita é <exibir o valor do 
 state>.
 • Método "render" para renderizar as seguintes mensagens na tela do browser:
 A minha cor favorita é <exibir o valor do objeto state>. (Obs.: Nesse caso, utilize a tag
-"<h1>" do HTML.)
+"h1" do HTML.)
 A cor favorita atualizada é <exibir o valor do objeto state>. (Obs.: Na tag "<div>"
 identificada como "meuDiv".)
 
